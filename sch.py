@@ -1,7 +1,7 @@
 import requests
 
 url = "https://thedaddy.top/schedule/schedule-generated.php"
-output_file = "dlhd.json"
+output_file = "sch.json"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:141.0) Gecko/20100101 Firefox/141.0",
