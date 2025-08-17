@@ -10,11 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
       with:
-        persist-credentials: true  # Important to allow push back to repo
+        persist-credentials: false  # We override credentials manually
 
-    - uses: actions/setup-python@v4
+    - name: Set up Python
+      uses: actions/setup-python@v4
       with:
         python-version: 3.12
 
@@ -28,8 +30,8 @@ jobs:
       env:
         TOKEN: ${{ secrets.GH_PAT }}
       run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
         git add dlhd.json
 
         if git diff --cached --quiet; then
@@ -37,7 +39,9 @@ jobs:
         else
           git commit -m "🔄 Auto-update schedule"
 
-          # Use token to authenticate push
+          # Set remote to use the token
           git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
-          git push || echo "⚠️ Push failed."
+
+          # Push to the main branch
+          git push origin HEAD:main || echo "⚠️ Push failed."
         fi
