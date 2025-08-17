@@ -1,0 +1,39 @@
+name: Update Schedule
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC (UK GMT)
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        persist-credentials: true  # Important to allow push back to repo
+
+    - uses: actions/setup-python@v4
+      with:
+        python-version: 3.12
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run update script
+      run: python sch.py
+
+    - name: Commit and push changes (if any)
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add dlhd.json
+
+        # Only commit & push if there are changes
+        if git diff --cached --quiet; then
+          echo "✅ No changes to commit."
+        else
+          git commit -m "🔄 Auto-update schedule"
+          git push || echo "⚠️ Push failed, possibly due to repo permissions or detached HEAD."
+        fi
