@@ -7294,18 +7294,6 @@
     "Monday 18th Aug 2025 - Schedule Time UK GMT": {
         "TV Shows": [
             {
-  "time": "23:59",
-  "event": "Test Future Match",
-  "channels": [
-    {
-      "channel_name": "Test Channel",
-      "channel_id": "9999"
-    }
-  ],
-  "channels2": []
-}
-
-            {
                 "time": "18:00",
                 "event": "Beyond the Gates Season 1, Episode 114",
                 "channels": [
@@ -7692,6 +7680,18 @@
             }
         ],
         "Soccer": [
+                        {
+  "time": "23:59",
+  "event": "Test Future Match",
+  "channels": [
+    {
+      "channel_name": "Test Channel",
+      "channel_id": "9999"
+    }
+  ],
+  "channels2": []
+}
+
             {
                 "time": "10:00",
                 "event": "Australia - NPL - Northern NSW : Edgeworth Eagles vs Weston Workers Bears",
