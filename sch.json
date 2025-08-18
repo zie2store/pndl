@@ -52,6 +52,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "108"
+                    },
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5005"
                     }
                 ],
                 "channels2": []
@@ -7680,18 +7684,6 @@
             }
         ],
         "Soccer": [
-                        {
-  "time": "23:59",
-  "event": "Test Future Match",
-  "channels": [
-    {
-      "channel_name": "Test Channel",
-      "channel_id": "9999"
-    }
-  ],
-  "channels2": []
-}
-
             {
                 "time": "10:00",
                 "event": "Australia - NPL - Northern NSW : Edgeworth Eagles vs Weston Workers Bears",
