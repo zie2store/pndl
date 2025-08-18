@@ -2,7 +2,7 @@ name: Update Schedule
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC (UK GMT)
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
