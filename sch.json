@@ -3618,7 +3618,12 @@
                         "channel_id": "151"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463736",
+                        "channel_id": "8463736"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3629,7 +3634,12 @@
                         "channel_id": "152"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463749",
+                        "channel_id": "8463749"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3640,7 +3650,12 @@
                         "channel_id": "153"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463748",
+                        "channel_id": "8463748"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3651,7 +3666,12 @@
                         "channel_id": "154"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463747",
+                        "channel_id": "8463747"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3662,7 +3682,12 @@
                         "channel_id": "155"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463750",
+                        "channel_id": "8463750"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3673,7 +3698,12 @@
                         "channel_id": "156"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463744",
+                        "channel_id": "8463744"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3684,7 +3714,12 @@
                         "channel_id": "157"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463746",
+                        "channel_id": "8463746"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3695,7 +3730,12 @@
                         "channel_id": "158"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463743",
+                        "channel_id": "8463743"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3706,7 +3746,12 @@
                         "channel_id": "159"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463745",
+                        "channel_id": "8463745"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3717,7 +3762,12 @@
                         "channel_id": "160"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463742",
+                        "channel_id": "8463742"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3728,7 +3778,12 @@
                         "channel_id": "161"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463740",
+                        "channel_id": "8463740"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3739,7 +3794,12 @@
                         "channel_id": "162"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463739",
+                        "channel_id": "8463739"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3750,7 +3810,12 @@
                         "channel_id": "163"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463738",
+                        "channel_id": "8463738"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3761,7 +3826,12 @@
                         "channel_id": "164"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463751",
+                        "channel_id": "8463751"
+                    }
+                ]
             },
             {
                 "time": "18:00",
@@ -3772,7 +3842,12 @@
                         "channel_id": "165"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463737",
+                        "channel_id": "8463737"
+                    }
+                ]
             },
             {
                 "time": "18:30",
@@ -3783,7 +3858,12 @@
                         "channel_id": "166"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463755",
+                        "channel_id": "8463755"
+                    }
+                ]
             },
             {
                 "time": "18:30",
@@ -3794,7 +3874,12 @@
                         "channel_id": "167"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463756",
+                        "channel_id": "8463756"
+                    }
+                ]
             },
             {
                 "time": "18:45",
@@ -3805,7 +3890,12 @@
                         "channel_id": "168"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463741",
+                        "channel_id": "8463741"
+                    }
+                ]
             },
             {
                 "time": "18:45",
@@ -3816,7 +3906,12 @@
                         "channel_id": "169"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463785",
+                        "channel_id": "8463785"
+                    }
+                ]
             },
             {
                 "time": "18:45",
@@ -3827,7 +3922,12 @@
                         "channel_id": "170"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8463786",
+                        "channel_id": "8463786"
+                    }
+                ]
             },
             {
                 "time": "10:00",
@@ -4835,7 +4935,12 @@
                         "channel_id": "146"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7885033",
+                        "channel_id": "7885033"
+                    }
+                ]
             },
             {
                 "time": "02:00",
@@ -4850,7 +4955,12 @@
                         "channel_id": "654"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-7885032",
+                        "channel_id": "7885032"
+                    }
+                ]
             }
         ],
         "Cycling": [
@@ -4915,7 +5025,7 @@
         ],
         "Floorball": [
             {
-                "time": "21:06",
+                "time": "03:35",
                 "event": "Roller Hockey: European Senior Men's Championship : Portugal vs France",
                 "channels": [
                     {
