@@ -1979,7 +1979,7 @@
         ],
         "Floorball": [
             {
-                "time": "20:52",
+                "time": "02:22",
                 "event": "Roller Hockey: European Senior Men's Championship : Portugal vs France",
                 "channels": [
                     {
@@ -3884,6 +3884,39 @@
                 "channels2": []
             },
             {
+                "time": "17:00",
+                "event": "Germany - Bundesliga : Bergischer vs Erlangen",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-8469608",
+                        "channel_id": "8469608"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Germany - Bundesliga : Goppingen vs Fuchse Berlin",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-8469607",
+                        "channel_id": "8469607"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "Germany - Bundesliga : Kiel vs Wetzlar",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-8469606",
+                        "channel_id": "8469606"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "Germany Bundesliga : SC Magdeburg vs. ThSV Eisenach",
                 "channels": [
@@ -3912,7 +3945,23 @@
                         "channel_id": "141"
                     }
                 ],
-                "channels2": []
+                "channels2": [
+                    {
+                        "channel_name": "SD-8469627",
+                        "channel_id": "8469627"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Germany - Bundesliga : Hamburg vs Hannover Burgdorf",
+                "channels": [],
+                "channels2": [
+                    {
+                        "channel_name": "SD-8469628",
+                        "channel_id": "8469628"
+                    }
+                ]
             },
             {
                 "time": "18:00",
