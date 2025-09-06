@@ -13,6 +13,17 @@
                 "channels2": []
             },
             {
+                "time": "14:00",
+                "event": "Ice Cage Fighting : ICF 5",
+                "channels": [
+                    {
+                        "channel_name": "PPV Event",
+                        "channel_id": "5000"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "15:00",
                 "event": "TNT: Supreme Extreme 2022",
                 "channels": [
@@ -4749,16 +4760,20 @@
             {
                 "time": "16:00",
                 "event": "NCAA FBS : Iowa at Iowa State",
-                "channels": {
-                    "0": {
+                "channels": [
+                    {
                         "channel_name": "Fox USA",
                         "channel_id": "54"
                     },
-                    "2": {
+                    {
+                        "channel_name": "FOXNY USA",
+                        "channel_id": "768"
+                    },
+                    {
                         "channel_name": "Fox Deportes",
                         "channel_id": "643"
                     }
-                },
+                ],
                 "channels2": []
             },
             {
@@ -4793,7 +4808,7 @@
             },
             {
                 "time": "16:00",
-                "event": "NCAA FBS : East Texas A&amp;M at Florida State",
+                "event": "NCAA FBS : East Texas A&M at Florida State",
                 "channels": [
                     {
                         "channel_name": "ACC Network",
@@ -4873,12 +4888,210 @@
                 "channels2": []
             },
             {
+                "time": "16:00",
+                "event": "NCAA FBS : UConn at Syracuse",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "174"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "16:00",
+                "event": "NCAA FBS : Sacred Heart at Lehigh",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "175"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "16:00",
+                "event": "NCAA FBS : Thomas More at Dayton",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "176"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "16:00",
+                "event": "NCAA FBS : Lincoln (PA) at Duquesne",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "177"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "16:45",
-                "event": "NCAA FBS : Utah State at Texas A&amp;M",
+                "event": "NCAA FBS : Utah State at Texas A&M",
                 "channels": [
                     {
                         "channel_name": "SEC Network USA",
                         "channel_id": "385"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAA FBS : Wagner at Georgetown",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "178"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAA FBS : Lafayette at Stonehill",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "179"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAA FBS : Truman State at Butler",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "180"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAA FBS : Eastern Illinois at Indiana State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "181"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAA FBS : Bucknell at Marist",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "182"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "NCAA FBS : UAlbany at Delaware State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "183"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:30",
+                "event": "NCAA FBS : Ferrum College at VMI",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "184"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA FBS : Western Carolina at Wake Forest",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "185"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA FBS : Howard at Temple",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "186"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA FBS : Presbyterian at Furman",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "187"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:00",
+                "event": "NCAA FBS : Robert Morris at Youngstown State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "188"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "NCAA FBS : Chattanooga at Tennessee Tech",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "86"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "NCAA FBS : UAlbany at Delaware State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "105"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "NCAA FBS : North Dakota State at Tennessee State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "106"
                     }
                 ],
                 "channels2": []
@@ -4913,6 +5126,17 @@
                     {
                         "channel_name": "Sport Klub 3 Croatia",
                         "channel_id": "103"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA FBS : Saint Francis (PA) at Buffalo",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "107"
                     }
                 ],
                 "channels2": []
@@ -4960,11 +5184,66 @@
             },
             {
                 "time": "19:30",
+                "event": "NCAA FBS : Austin Peay at Georgia",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "108"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
                 "event": "NCAA FBS : UAB at Navy",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA FBS : Bryant at UMass",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "109"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA FBS : Lindenwood at Appalachian State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "110"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA FBS : Bowling Green at Cincinnati",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "151"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA FBS : Miami (OH) at Rutgers",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "152"
                     }
                 ],
                 "channels2": []
@@ -4996,6 +5275,61 @@
                 "channels2": []
             },
             {
+                "time": "19:30",
+                "event": "NCAA FBS : North Texas at Western Michigan",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "154"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA FBS : East Tennessee State at Tennessee",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "155"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA FBS : Gardner-Webb at Georgia Tech",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "156"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA FBS : Texas State at UTSA",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "157"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
+                "event": "NCAA FBS : The Citadel at Samford",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "160"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "20:00",
                 "event": "NCAA FBS : West Virginia at Ohio",
                 "channels": [
@@ -5015,6 +5349,12 @@
                         "channel_id": "39"
                     }
                 ],
+                "channels2": []
+            },
+            {
+                "time": "20:00",
+                "event": "NCAA FBS : St. Thomas at Idaho",
+                "channels": [],
                 "channels2": []
             },
             {
@@ -5040,6 +5380,160 @@
                 "channels2": []
             },
             {
+                "time": "21:00",
+                "event": "NCAA FBS : Sacramento State at Nevada",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "176"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "21:00",
+                "event": "NCAA FBS : Jackson State at Southern Miss",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "177"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "21:00",
+                "event": "NCAA FBS : Utah Tech at Northern Arizona",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "178"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "21:00",
+                "event": "NCAA FBS : Arkansas State at Arkansas",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "179"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : North Carolina Central at Old Dominion",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "180"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Campbell at East Carolina",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "181"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Cal Poly at Utah",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "182"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Missouri State at Marshall",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "183"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Texas Southern at California",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "184"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Florida A&M at FAU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "185"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : AIC at Central Connecticut State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "186"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Warner at Stetson",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "187"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Davidson at Elon",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "188"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Rhode Island at Stony Brook",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "189"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "22:00",
                 "event": "NCAA FBS : Elizabeth City State at Hampton",
                 "channels": [
@@ -5051,12 +5545,342 @@
                 "channels2": []
             },
             {
+                "time": "22:00",
+                "event": "NCAA FBS : Holy Cross at New Hampshire",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "190"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Monmouth at Fordham",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "191"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Richmond at Wofford",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "192"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Houston Christian at Eastern Kentucky",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "193"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Colgate at Villanova",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "194"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Maine at William & Mary",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "195"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Saint Anselm at Merrimack",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "196"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "NCAA FBS : Virginia State at Norfolk State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "197"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Tulane at South Alabama",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "198"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Bethune-Cookman at Miami (FL)",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "199"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Western Kentucky at Toledo",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "200"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : North Carolina at Charlotte",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "201"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Memphis at Georgia State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "202"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "23:00",
                 "event": "NCAA FBS : Army at Kansas State",
                 "channels": [
                     {
                         "channel_name": "ESPN USA",
                         "channel_id": "44"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Houston at Rice",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "203"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : South Carolina State at South Carolina",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "204"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : North Carolina A&T at UCF",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "205"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : LIU at Eastern Michigan",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "206"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : West Georgia at Nicholls",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "207"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Adrian College at Valparaiso",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "208"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Portland State at North Dakota",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "209"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Alcorn State at Alabama A&M",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "210"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Mississippi Valley State at Tarleton State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "153"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Morehead State at Illinois State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "211"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : North Alabama at Southeast Missouri State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "212"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Arkansas-Pine Bluff at Central Arkansas",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "213"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : South Dakota at Lamar",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "214"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Alabama State at Southern",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "215"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Southeastern Louisiana at Murray State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "216"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : Towson at Morgan State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "217"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "NCAA FBS : UTRGV at Prairie View A&M",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "218"
                     }
                 ],
                 "channels2": []
@@ -5127,6 +5951,17 @@
             },
             {
                 "time": "23:30",
+                "event": "NCAA FBS : Charleston Southern at Coastal Carolina",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "319"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:30",
                 "event": "NCAA FBS : Ball State at Auburn",
                 "channels": [
                     {
@@ -5185,6 +6020,17 @@
                 "channels2": []
             },
             {
+                "time": "23:30",
+                "event": "NCAA FBS : Louisiana Tech at LSU",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "220"
+                    }
+                ],
+                "channels2": []
+            },
+            {
                 "time": "23:45",
                 "event": "NCAA FBS : Louisiana-Monroe at Alabama",
                 "channels": [
@@ -5197,11 +6043,99 @@
             },
             {
                 "time": "00:00",
+                "event": "NCAA FBS : McNeese at Lousiana-Lafayette",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "221"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
                 "event": "NCAA FBS : UCLA at UNLV",
                 "channels": [
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "NCAA FBS : South Dakota State at Montana State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "222"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "NCAA FBS : Stephen F. Austin at Abilene Christian",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "223"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:00",
+                "event": "NCAA FBS : Central Washington at Montana",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "224"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "NCAA FBS : UT Martin at UTEP",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "225"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "NCAA FBS : Tulsa at New Mexico State",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "226"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "NCAA FBS : Southern Utah at San Diego",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "227"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "02:00",
+                "event": "NCAA FBS : Weber State at Arizona",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "228"
                     }
                 ],
                 "channels2": []
