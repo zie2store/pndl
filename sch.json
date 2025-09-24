@@ -2,7 +2,7 @@
     "Tuesday 23rd Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live": [
             {
-                "time": "00:58",
+                "time": "03:14",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -31,7 +31,7 @@
         ],
         "Big Brother Naija 2025 Live": [
             {
-                "time": "00:58",
+                "time": "03:14",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
@@ -369,6 +369,21 @@
                     {
                         "channel_name": "ID USA",
                         "channel_id": "324"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "03:30",
+                "event": "Jimmy Kimmel Live! Season 24, Episode 10",
+                "channels": [
+                    {
+                        "channel_name": "ABC NY USA",
+                        "channel_id": "766"
+                    },
+                    {
+                        "channel_name": "ABC USA",
+                        "channel_id": "51"
                     }
                 ],
                 "channels2": []
@@ -3566,7 +3581,7 @@
     "Wednesday 24th Sep 2025 - Schedule Time UK GMT": {
         "Big Brother 27 USA 2025 Live": [
             {
-                "time": "00:58",
+                "time": "03:14",
                 "event": "Big Brother 27 USA 2025 Live Cam Feeds",
                 "channels": [
                     {
@@ -3595,7 +3610,7 @@
         ],
         "Big Brother Naija 2025 Live": [
             {
-                "time": "00:58",
+                "time": "03:14",
                 "event": "Big Brother Naija 2025",
                 "channels": [
                     {
