@@ -5891,103 +5891,188 @@
             {
                 "time": "04:30",
                 "event": "ATP - SHANGHAI : Brooksby J. vs Trotter J. K.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "04:30",
                 "event": "ATP - SHANGHAI : Comesana F. vs Blanchet U.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "04:30",
                 "event": "ATP - SHANGHAI : Ugo Carabelli C. vs Atmane T.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "04:30",
                 "event": "ATP - SHANGHAI : Van De Zandschulp B. vs Borges N.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "04:30",
                 "event": "ATP - SHANGHAI : Wu Y. vs Svrcina D.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "06:00",
                 "event": "ATP - SHANGHAI : Cazaux A. vs Martinez P.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "06:00",
                 "event": "ATP - SHANGHAI : Dzumhur D. vs O'Connell C.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "06:00",
                 "event": "ATP - SHANGHAI : Majchrzak K. vs Quinn E",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "06:00",
                 "event": "ATP - SHANGHAI : Opelka R. vs Bonzi B.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "06:00",
                 "event": "ATP - SHANGHAI : Zhou Y. vs De Jong J.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "07:30",
                 "event": "ATP - SHANGHAI : Giron M. vs Tabilo A",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "07:30",
                 "event": "ATP - SHANGHAI : McDonald M. vs Halys Q.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "07:30",
                 "event": "ATP - SHANGHAI : Royer V. vs Navone \u041c.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "09:00",
                 "event": "ATP - SHANGHAI : Arnaldi M. vs Sakamoto R.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "09:00",
                 "event": "ATP - SHANGHAI : Rinderknech A. vs Medjedovic H.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "10:30",
                 "event": "ATP - SHANGHAI : Kovacevic A. vs Shang J.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ],
                 "channels2": []
             },
             {
                 "time": "12:00",
                 "event": "ATP - SHANGHAI : Bu Y. vs Cerundolo J. M.",
-                "channels": [],
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ],
                 "channels2": []
             }
         ],
